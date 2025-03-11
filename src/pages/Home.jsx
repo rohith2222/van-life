@@ -8,6 +8,5 @@ export default function Home(){
             <p>Rent the perfect van to make your perfect road trip.</p>
             <Link to="/vans">Find your van</Link>
         </div>
-        // Test
     )
 }
